@@ -1,0 +1,18 @@
+# Compiled binaries/executables
+*.exe
+*.out
+*.app
+
+# Intermediate object files
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+out/
+
+# IDE settings
+.vscode/
+.vs/
+.idea/
